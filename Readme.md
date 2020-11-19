@@ -14,7 +14,7 @@
 
 # REST API
 
-The REST API to the example app is described below.
+The REST API for searching text in files in filesystem or project resources
 
 ## Search in file
 ### Request
